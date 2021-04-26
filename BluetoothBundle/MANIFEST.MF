@@ -1,0 +1,6 @@
+Bundle-Name: BluetoothBundle
+Bundle-Description: A bundle that activate a bluetooth service
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: BluetoothBundle.Activator
+Import-Package: org.osgi.framework
