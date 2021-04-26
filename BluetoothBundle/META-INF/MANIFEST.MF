@@ -1,3 +1,4 @@
+Manifest-Version: 1.0
 Bundle-Name: BluetoothBundle
 Bundle-Description: A bundle that activate a bluetooth service
 Bundle-Vendor: Apache Felix
