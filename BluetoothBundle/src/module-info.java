@@ -1,3 +1,0 @@
-module bluetoothBundle {
-	requires felix;
-}

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Name: FrameBundle
+Bundle-Description: A bundle that initialize the UI
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: FrameBundle.Activator
+Import-Package: org.osgi.framework, java.awt.event, javax.swing

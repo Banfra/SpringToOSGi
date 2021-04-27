@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Name: BatterySaverBundle
+Bundle-Description: A bundle that saves the battery
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: BatterySaverBundle.Activator
+Import-Package: org.osgi.framework

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Name: message
+Bundle-Description: A bundle that send Message
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Activator: message.Activator
+Import-Package: org.osgi.framework
+Export-Package: message.service
